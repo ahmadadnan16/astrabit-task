@@ -7,7 +7,7 @@ import { BankInfo, Events } from "../data/Data";
 
 const Home = () => {
   return (
-    <div className="w-full bg-[#F7F8FA] px-4 mb-10">
+    <div className="w-full font-apercupro bg-[#F7F8FA] px-4 mb-10">
     <h1 className="text-2xl font-apercupro font-bold mx-[42px] pt-5">
       Welcome, Johan Paul
     </h1>
