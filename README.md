@@ -1,8 +1,22 @@
-# React + Vite
+# Assignment Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This Vite + React application with Tailwind CSS for styling
 
-Currently, two official plugins are available:
+### Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* clone the repo
+`git clone https://github.com/ahmadadnan16/astrabit-task.git`
+
+* change the directory
+`cd "Folder name"`
+
+* Install packages
+`npm install`
+
+* Run the application
+`npm run dev`
+
+* Now Application should be running on
+`https://localhost:5173/`
+
+###### Live Project : https://adnan-adstrabit-assignment.netlify.app/
